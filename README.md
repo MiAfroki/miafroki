@@ -35,5 +35,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Milena Camargo](https://img.shields.io/badge/-mimargo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mimargo/)](https://www.linkedin.com/in/mimargo/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mica.margo1997@gmail.com)](mailto:mica.margo1997@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mica.margo1997@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mica.margo1997@gmail.com)](mailto:mica.margo1997@gmail.com)
 [![GitHub Milena]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/MiAfrokiB)
