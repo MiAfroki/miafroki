@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim: </h3>
+<h3> :woman: :sparkles: :crystal_ball: &nbsp;Sobre mim: </h3>
 
 - :smile: &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="link da sua faculdade">FATEC - Praia Grande</a>.
