@@ -3,7 +3,7 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- :smile:  Explorando novas tecnologias e desenvolvendo soluções de software.
+- :smile: &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="link da sua faculdade">FATEC - Praia Grande</a>.
 - 💼 &nbsp; Trabalhando como **Estagiária de T.I.** na <a href="https://www.tcs.com/">Tata Consultancy Services</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Java, Javascript, AWS, IA e muito mais**.
