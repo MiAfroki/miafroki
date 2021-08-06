@@ -44,4 +44,7 @@
 
 [![Linkedin: Milena](https://img.shields.io/badge/-mimargo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mimargo/)](https://www.linkedin.com/in/mimargo/)
 [![Gmail Badge](https://img.shields.io/badge/-mica.margo1997@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mica.margo1997@email.com)](mailto:mica.margo1997@email.com)
-[![GitHub Milena]( https://img.shields.io/github/followers/MiAroki?label=follow&style=social)](https://github.com/MiAfroki)
+[![GitHub Milena](https://img.shields.io/github/followers/MiAroki?label=follow&style=social)](https://github.com/MiAfroki)
+<br/>
+
+[![Instagram: Milena](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miafroki/)
