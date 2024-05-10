@@ -4,9 +4,9 @@
 <h3> :woman: :sparkles: :crystal_ball: &nbsp;Sobre mim: </h3>
 
 - :smile: &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.vestibularfatec.com.br/unidades-cursos/escola.asp?c=156">FATEC - Praia Grande</a>.
-- 💼 &nbsp; Trabalhando como **Trainee de T.I.** na <a href="https://www.tcs.com/">Tata Consultancy Services</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Java, Javascript, AWS, IA e muito mais**.
+- 🎓 &nbsp; Graduada em **Análise e Desenvolvimento de Sistemas** na <a href="https://www.vestibularfatec.com.br/unidades-cursos/escola.asp?c=156">FATEC - Praia Grande</a>.
+- 💼 &nbsp; Trabalhando como **Analista de Sistemas** na <a href="https://www.tcs.com/">Tata Consultancy Services</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Python, AWS, Java, IA e muito mais**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
